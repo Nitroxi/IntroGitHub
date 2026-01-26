@@ -8,6 +8,8 @@ Fins ara heu fet moltes peces del puzle: sistemes, xarxes, serveis, suport, una 
 
 Ara bé: arriba el moment incòmode i necessari.
 
+![img](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZno3NmVobWU3aXBmY2pmOGIya3kzY29jaXp0czBmNWhlc3ExendmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Hkk0KpRkI7gDDGnSp/giphy.gif)
+
 El món real **no funciona per assignatures**. No hi ha un client que arribi i digui:
 
 > “Bon dia, vinc a fer RA1 fins les 11:00 i després si pot ser RA2 fins a l’hora de dinar.”
