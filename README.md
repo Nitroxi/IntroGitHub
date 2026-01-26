@@ -25,8 +25,6 @@ I aquí és on entra el projecte.
 
 ---
 
-## Benvinguts a la Incubadora
-
 Durant les pròximes **4 setmanes**, la classe es converteix en una incubadora d’empreses.
 
 No és una cosa “de postureig”, sinó una simulació seriosa i guiada: vosaltres sereu un equip emprenedor que ha de dissenyar una empresa IT des de zero i portar-la fins a una presentació final com si us juguéssiu finançament real.
