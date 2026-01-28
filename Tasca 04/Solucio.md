@@ -202,3 +202,6 @@ La màquina virtual queda configurada amb:
 I ja estaria 👍.
 
 ---
+
+- [**Tornar al readme**](README.md)
+- [**Tornar el projecte**](../README.md)
