@@ -24,13 +24,12 @@ Obrim **Active Directory Users and Computers** i verifiquem el domini.
 Creem les OU necessàries (exemple d’estructura):
 - `usuaris`
 - `grups`
-- `màquines` (equips)
 
 Creació de la OU **grups**:
 
 ![img](img/img02.png)
 
-I aixi amb les altres
+I aixi amb l¡altre
 
 ---
 
