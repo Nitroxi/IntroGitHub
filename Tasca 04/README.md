@@ -58,3 +58,8 @@ Documentar els passos de la instal·lació amb:
 - **UD.6. AA2. Instal·lació Window Server 2025** *(Moodle 0224 Sist. Operatius en Xarxa)*
 - **Requisitos de hardware para Windows Server** *(Microsoft Learn)* :contentReference[oaicite:5]{index=5}
 
+---
+
+- [**Solucio**](Solucio.md)
+- [**Tornar el projecte**](../README.md)
+
