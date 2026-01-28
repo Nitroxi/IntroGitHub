@@ -78,9 +78,9 @@ Configuració requerida:
 - Format regional: **Spanish**
 - Teclat: **Spanish**
 
-![img](img/img07.png)
+![img](img/img05.png)
 
-![img](img/img08.png)
+![img](img/img06.png)
 
 ---
 
@@ -90,7 +90,7 @@ Seleccionem:
 
 ✅ Install Windows Server
 
-![img](img/img09.png)
+![img](img/img07.png)
 
 ---
 
@@ -100,7 +100,7 @@ En cas de no disposar de clau:
 
 - Seleccionar **I don’t have a product key**
 
-![img](img/img10.png)
+![img](img/img08.png)
 
 ---
 
@@ -110,7 +110,7 @@ Instal·lem:
 
 ✅ Windows Server 2025 Standard (Desktop Experience)
 
-![img](img/img11.png)
+![img](img/img09.png)
 
 ---
 
@@ -120,7 +120,7 @@ Seleccionem:
 
 - Disk 0 Unallocated Space
 
-![img](img/img05.png)
+![img](img/img10.png)
 
 ---
 
@@ -134,7 +134,9 @@ Un cop instal·lat, cal canviar el nom del servidor a:
 
 ### Des de About → Rename this PC
 
-![img](img/img13.png)
+![img](img/img11.png)
+
+![img](img/img12.png)
 
 ---
 
@@ -142,7 +144,7 @@ Un cop instal·lat, cal canviar el nom del servidor a:
 
 Exemple: **DC20**
 
-![img](img/img14.png)
+![img](img/img13.png)
 
 ---
 
@@ -156,7 +158,9 @@ El canvi s’aplicarà després de reiniciar.
 
 ### Verificació a Propietats del sistema
 
-![img](img/img12.png)
+En propietats del sistema també pots cambiar el nom del equip i verificar-lo
+
+![img](img/img15.png)
 
 ---
 
@@ -179,7 +183,7 @@ Un cop finalitzades:
 - Anar a Windows Update
 - Seleccionar **Pause updates**
 
-![img](img/img17.png)
+![img](img/img14.png)
 
 ---
 
@@ -193,6 +197,8 @@ La màquina virtual queda configurada amb:
 - Xarxa NAT + Host-only  
 - Windows Server 2025 GUI en anglès amb teclat espanyol  
 - Nom canviat a DCxx  
-- Sistema actualitzat i actualitzacions pausades  
+- Sistema actualitzat i actualitzacions pausades
+
+I ja estaria 👍.
 
 ---
