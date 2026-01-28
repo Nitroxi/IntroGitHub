@@ -39,3 +39,7 @@ Mecanismes possibles:
 ## Materials i links de suport
 - **Guia UD6.AA3 Instal·lació DC** *(Moodle SOX)*
 
+---
+
+- [**Solucio**](Solucio.md)
+- [**Tornar el projecte**](../README.md)
