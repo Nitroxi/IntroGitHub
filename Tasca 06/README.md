@@ -62,3 +62,9 @@ Comprovar el correcte funcionament iniciant sessió a l’equip client amb:
 
 ## Materials i links de suport
 - **UD6.AA3 Desplegament** *(Moodle 0224 SOX)*
+
+---
+
+- [**Solucio**](Solucio.md)
+- [**Tornar el projecte**](../README.md)
+
