@@ -12,13 +12,11 @@ Aquest procediment servirà com a **prova de concepte (PoC)** per mostrar als re
 
 ## ✅ 1. Instal·lació dels rols necessaris
 
-Primer cal instal·lar el rol de **Active Directory Domain Services**.
+Ara cal instal·lar el rol de **Active Directory Domain Services**.
 
 Des del *Server Manager* seleccionem:
 
 - **Add roles and features**
-
-![img](img/img01.png)
 
 ---
 
@@ -64,9 +62,9 @@ Esperem que el procés finalitzi correctament.
 
 És recomanable configurar el DNS preferit com:
 
-- **127.0.0.1** (DNS local)
+- **127.0.0.1** (DNS local) per que apunti asi mateix
 
-![img](img/img06.png)
+![img](img/img01.png)
 
 ---
 
@@ -81,6 +79,8 @@ Quan el rol està instal·lat, iniciem el **Configuration Wizard**.
 A la pantalla *Deployment Configuration* seleccionem:
 
 ✅ Add a new forest
+
+![img](img/img06.png)
 
 I escrivim el domini:
 
@@ -136,7 +136,7 @@ A la pantalla **Review Options** es mostra el resum complet.
 
 ⚠️ Aquesta pantalla és important documentar-la.
 
-![img](img/img11.png)
+![img](img/img12.png)
 
 ---
 
@@ -146,7 +146,11 @@ En aquesta mateixa pantalla podem copiar l’script automàtic generat per Power
 
 Aquest script permet automatitzar el desplegament del domini.
 
-![img](img/img14.png)
+![img](img/img13.png)
+
+L'enviem per algun correu nostre per tenir-lo guardat
+
+![img](img/img27.png)
 
 ---
 
@@ -154,11 +158,13 @@ Aquest script permet automatitzar el desplegament del domini.
 
 Després de la instal·lació, el servidor es reiniciarà.
 
+![img](img/img15.png)
+
 A partir d’aquest moment, l’inici de sessió apareix així:
 
 - **TRANSLOGIC20\Administrator**
 
-![img](img/img15.png)
+![img](img/img16.png)
 
 ---
 
@@ -166,11 +172,19 @@ A partir d’aquest moment, l’inici de sessió apareix així:
 
 Un cop dins, comprovem que el domini està actiu al Server Manager.
 
-![img](img/img01.png)
+![img](img/img17.png)
 
 ---
 
-## ✅ 12. Gestió DNS i Forwarders
+## ✅ 12. Comprovació del domini i objectes
+
+Ara per evitar problemas sincronizem l'hora 
+
+![img](img/img18.png)
+
+---
+
+## ✅ 13. Gestió DNS i Forwarders
 
 Des del menú Tools:
 
@@ -182,34 +196,13 @@ Des del menú Tools:
 
 ### Forwarders configurats
 
+![img](img/img21.png)
+
 Afegim DNS externs com:
 
 - 8.8.8.8 (Google)
 
-![img](img/img17.png)
-
----
-
-## ✅ 13. Comprovació del domini i objectes
-
-Al panell del domini podem veure contenidors com:
-
-- Deleted Objects
-- Domain Controllers
-
-![img](img/img13.png)
-
----
-
-# ✅ Copiar l’script PowerShell al repositori
-
-Un cop generat l’script, cal copiar-lo dins la carpeta del repositori GitHub.
-
-Mecanismes possibles:
-
-- ✅ Copiar amb USB
-- ✅ Enviar per Internet (Drive, correu, filetransfer)
-- ✅ Copiar amb SCP (instal·lant SSH al Windows Server)
+![img](img/img23.png)
 
 ---
 
@@ -228,5 +221,7 @@ El servidor ha estat promocionat correctament com a **Controlador de Domini**, a
 - Nivell funcional: Windows Server 2025
 - DNS instal·lat
 - Script PowerShell generat i guardat
+
+I ja estaria 👍
 
 ---
