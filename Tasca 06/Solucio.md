@@ -242,3 +242,5 @@ I ja estaria 👍
 
 # 📚 Materials i links de suport
 - **UD6.AA3 Desplegament** (Moodle 0224 SOX)
+- [**Tornar al readme**](README.md)
+- [**Tornar el projecte**](../README.md)
