@@ -30,9 +30,7 @@ Creació de la OU **grups**:
 
 ![img](img/img02.png)
 
-Creació de la OU **màquines**:
-
-![img](img/img03.png)
+I aixi amb les altres
 
 ---
 
@@ -118,7 +116,7 @@ En el nostre cas també es veu una configuració del tipus:
 
 ![img](img/img16.png)
 
-> **Nota important (captura d’error):** si s’intenta posar un UNC a “Local path” pot donar error. Per a rutes de xarxa, cal usar **Connect** i un UNC correcte.
+> **Nota important (captura d’error):** si s’intenta posar un UNC a “Local path” pot donar error. Per a rutes de xarxa, cal usar **Connect** i un UNC correcte. (m'ha pasat)
 
 ![img](img/img18.png)
 
