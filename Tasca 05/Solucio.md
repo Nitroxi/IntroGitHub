@@ -225,3 +225,6 @@ El servidor ha estat promocionat correctament com a **Controlador de Domini**, a
 I ja estaria 👍
 
 ---
+
+- [**Tornar al readme**](README.md)
+- [**Tornar el projecte**](../README.md)
