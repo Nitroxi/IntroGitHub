@@ -190,7 +190,7 @@ Des del menú Tools:
 
 - DNS Manager
 
-![img](img/img16.png)
+![img](img/img20.png)
 
 ---
 
