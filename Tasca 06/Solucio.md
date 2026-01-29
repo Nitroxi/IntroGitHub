@@ -70,15 +70,20 @@ Anem a Advanced Security Settings i creem o editem 'Domain Users'
 Un cop creat editem els seus permisos i clickem en "Show advancet permisions" en el nostre cas **nomes** li posem els seguents permisos
 
 **Type: Allow**
+
 **Aplies to: This folder only**
 
-**Advanced permissions:**
+-**Advanced permissions:**
 
-**List Folder/Read Data**
-**Traverse folder/Excectute**
-**Read attributes**
-**Read extended attributes**
-**Read permissions**
+-**List Folder/Read Data**
+
+-**Traverse folder/Excectute**
+
+-**Read attributes**
+
+-**Read extended attributes**
+
+-**Read permissions**
 
 ![img](img/iimg02.png)
 
