@@ -135,7 +135,7 @@ Llista de plantilles creades:
 
 ## 5) Crear usuaris de prova a partir de les plantilles
 
-> **Nota important:** Mai posis accents, mayusculas o characters especials pots generar conflictes
+> **Nota important:** Mai posis accents, majuscules o caracters especials, pots generar conflictes. 
 
 Per crear usuaris basats en plantilla, fem clic dret sobre la plantilla i **Copy...**
 
