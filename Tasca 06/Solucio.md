@@ -65,7 +65,7 @@ La compartim perquè quedi com:
 
 Anem a Advanced Security Settings i creem o editem 'Domain Users'
 
-![img](img/iimg001.png)
+![img](img/iimg01.png)
 
 Un cop creat editem els seus permisos i clickem en "Show advancet permisions" en el nostre cas **nomes** li posem els seguents permisos
 
