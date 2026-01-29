@@ -73,17 +73,17 @@ Un cop creat editem els seus permisos i clickem en "Show advancet permisions" en
 
 **Aplies to: This folder only**
 
--**Advanced permissions:**
+**Advanced permissions:**
 
--**List Folder/Read Data**
+**List Folder/Read Data**
 
--**Traverse folder/Excectute**
+**Traverse folder/Excectute**
 
--**Read attributes**
+**Read attributes**
 
--**Read extended attributes**
+**Read extended attributes**
 
--**Read permissions**
+**Read permissions**
 
 ![img](img/iimg02.png)
 
