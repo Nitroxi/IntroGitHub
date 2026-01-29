@@ -63,28 +63,28 @@ La compartim perquè quedi com:
 
 ![img](img/img19.png)
 
-Comprovem permisos de compartició (exemple):
-- `Domain Users` amb control (segons configuració del laboratori)
-- `Everyone` lectura (opcional, segons criteri)
+Anem a Advanced Security Settings i creem o editem 'Domain Users'
 
-![img](img/img20.png)
+![img](img/iimg001.png)
 
-![img](img/img12.png)
+Un cop creat editem els seus permisos i clickem en "Show advancet permisions" en el nostre cas **nomes** li posem els seguents permisos
 
-A nivell NTFS (seguretat avançada), assegurem els permisos adequats al directori `homes`
-(permetre llistat/travessar i crear carpetes per usuari).
+**Type: Allow**
+**Aplies to: This folder only**
 
-![img](img/img13.png)
+**Advanced permissions:**
 
-![img](img/img21.png)
+**List Folder/Read Data**
+**Traverse folder/Excectute**
+**Read attributes**
+**Read extended attributes**
+**Read permissions**
 
-Opcionalment es pot comprovar “Effective Access”:
+![img](img/iimg02.png)
 
-![img](img/img14.png)
+I mirem si s'ha aplicat anant a "Effective Acces"
 
-Resultat de comprovació (segons permisos aplicats):
-
-![img](img/img15.png)
+![img](img/iimg03.png)
 
 ---
 
@@ -234,6 +234,10 @@ Benvinguda després del primer inici:
 Comprovació de la carpeta personal mapejada (unitat `Z:`):
 
 ![img](img/img43.png)
+
+Comprobem si es pot anar amb un altre carpeta intentant obrir la carpeta B.Batalla (estic iniciat actualment a la de N.Mghari)
+
+![img](img/iimg04.png)
 
 > Repetir la comprovació iniciant sessió amb els altres dos usuaris de prova:
 > - `V.Rodriguez`
