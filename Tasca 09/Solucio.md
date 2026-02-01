@@ -233,12 +233,13 @@ En aquesta activitat analitzem les vulnerabilitats d’un sistema informàtic mi
 *(Referència visual: CVE al llistat)*  
 ![img](img/img23.png)
 
+I ja estaria 👍
+
 ---
 
 ## Conclusions i bones pràctiques
 - L’escaneig ha detectat múltiples serveis vulnerables exposats a la xarxa.
 - Cal aplicar **actualitzacions periòdiques**, retirar serveis no necessaris i segmentar la xarxa.
-- Recomanació general: mínim privilegis, control d’accessos, i hardening (ports, serveis, credencials).
 
 ## Materials i links de suport
 - **UD6.AA3 Desplegament** [Moodle 0224 SOX]
