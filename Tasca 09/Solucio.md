@@ -201,7 +201,7 @@ En aquesta activitat analitzem les vulnerabilitats d’un sistema informàtic mi
 
 *(Referències visuals: aplicació detectada i CVE)*  
 ![img](img/img21.png)  
-![img](img/img23.png)
+![img](img/iimg01.png)
 
 ---
 
@@ -216,7 +216,7 @@ En aquesta activitat analitzem les vulnerabilitats d’un sistema informàtic mi
   - Filtrar el port AJP (habitualment 8009/tcp).
 
 *(Referència visual: CVE al llistat)*  
-![img](img/img23.png)
+![img](img/iimg02.png)
 
 ---
 
@@ -231,7 +231,7 @@ En aquesta activitat analitzem les vulnerabilitats d’un sistema informàtic mi
   - Actualitzar i revisar configuració del servei.
 
 *(Referència visual: CVE al llistat)*  
-![img](img/img23.png)
+![img](img/iimg03.png)
 
 I ja estaria 👍
 
