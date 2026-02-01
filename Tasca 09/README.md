@@ -80,3 +80,8 @@ Documenta bé en un arxiu de Google Docs (assegura't de compartir-lo amb el teu 
   - Nivell de gravetat.
   - Possible explotació.
   - Mesures de mitigació proposades.
+
+---
+
+- [**Solucio**](Solucio.md)
+- [**Tornar el projecte**](../README.md)
