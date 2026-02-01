@@ -250,5 +250,5 @@ I ja estaria 👍
     
 ---
 
-- [**Tornar al readme**](README.md)
+- [**Tornar al README**](README.md)
 - [**Tornar el projecte**](../README.md)
